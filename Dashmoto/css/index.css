@@ -1,0 +1,38 @@
+* {
+  font-family: "Helvetica";
+}
+
+.header {
+  height: auto;
+  background-image: url("./images/pattern.jpg");
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2 {
+  fonts-size: 32px;
+  color: white;
+  font-weight: bold;
+}
+
+.green {
+  background-color: mediumspringgreen;
+}
+
+.red {
+  background-color: lightcoral;
+}
+
+.blue {
+  background-color: skyblue;
+}
+
+.highlight {
+  font-weight: bold;
+  color: blue;
+}
